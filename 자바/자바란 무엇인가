@@ -1,0 +1,29 @@
+[자바란?]
+프로그래밍 언어
+주요 특징 = JVM으로 인해 os에 독립적일 수 있다.
+컴퓨터와 의사소통 하기 위한 언어
+컴퓨터에게 명령하기 위한 언어
+Type 변수 = 값;
+의 형태로 사용 할 수 있다.
+
+[JVM] : Java Virtual Machine
+사용하는 OS에 맞게 자바코드를 실행 시켜준다.
+os독립적으로 만들어주는것,
+
+[JRE] : Java Rumtime Environment
+자바 실행 환경
+자바 실행환경이 버츄얼 머신에 비해 포괄적 의미이다.
+
+[JDK] : Java Development Kit
+자바 개발도구
+
+[포괄적 의미 : JDK > JRE > JVM]
+
+[JRE가 JVM보다 포괄적의미인 것은 이해가 가는데
+JDK가 왜 JRE보다 포괄적 의미인가요?
+JDK에는 JRE와 JVM이 포함되어 있다.즉 개발도구안에 환경과 구현도구가 포함되어 있는 것이다.]
+
+[Eclipse] (IDE : Intergrated Development Environment)
+통합 개발 환경
+
+[package] : 서로 관련있는 class들의 집합
